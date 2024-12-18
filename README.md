@@ -21,22 +21,12 @@
 - Configure Help Topics
 <img src="https://github.com/user-attachments/assets/65fada69-f429-421b-94c3-a0b200705b5d" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-<h2>Installation Steps</h2>
+<h2>Ticket Simulation</h2>
 
+<img src="https://github.com/user-attachments/assets/1a9d1e1c-49de-4c42-887b-f0dd8e14f812" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <p>
-<img src="https://github.com/user-attachments/assets/a7951c34-3cc6-4978-a9cc-1657848e9f2a" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://github.com/user-attachments/assets/6c4a18bf-0d44-4a78-91e7-b2bcc126f724" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-First we need to Install / Enable IIS in Windows WITH CGI. IIS (Internet Information Services) is the web server needed to host osTicket, and CGI allows IIS to execute PHP scripts.
-  
-  1.  Navigate to Control Panel > Programs > Programs and Features and head into "Turn Windows Features on or off"
-  2.  Check the box "internet infortmation services (ISS)"
-  3.  Expand ISS -> Expand "World Wide Web Services" -> Expand "Application Development Feature" -> Check the box "CGI"
-  4.  Press "OK" to continue with the installation 
-
-
+As an end-user, I created a ticket with a random concern so I can view it as an Help Desk agent.
 
 </p>
 <br />
