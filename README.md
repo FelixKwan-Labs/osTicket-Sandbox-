@@ -3,7 +3,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
+<h1>What I have Learned from exploring osTicket</h1>
 
 <b>- Microsoft Azure (Virtual Machines/Compute):</b> 
   1. Sign up and create a free subscription: https://azure.microsoft.com/en-us/free/
