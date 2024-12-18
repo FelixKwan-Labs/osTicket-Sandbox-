@@ -7,10 +7,18 @@
 
 <h3><b>Admin Panel vs Agent Panel</b></h3>
 <p><b> Admin Panel </b></p>
-<p>In the Admin Panel there are more backend configuration as shown in the photo below.The Agent Panel is tailored for support agents who handle tickets and interact with users.</p>
+<p>In the Admin Panel there are more backend configuration as shown in the photo below.The Agent Panel is tailored for support agents who handle tickets and interact with users. Things admin are capable of doing are:</p>
+
+- Configuring Roles: Assigning/Creating roles for agents or departments. Adjusting diffrent type of permissions for each role. 
+- Configuring Departments: Assigning/Creating departments 
+- Configuring Team and Agent settings: Adding new or removing agents on diffrent teams.
+- SLA Configurations: Adding grace time periods for diffrent Severity level ratings. 
 <img src="https://github.com/user-attachments/assets/95d1d392-295d-4c73-9211-30b088d8ff76" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p><b> Agent Panel </b></p>
 <p>The Agent Panel is more focused on day-to-day ticket handling and communication. It’s for agents who resolve tickets and assist users.</p>
+
+- Configure users
+- Configure Help Topics
 <img src="https://github.com/user-attachments/assets/65fada69-f429-421b-94c3-a0b200705b5d" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <h2>Installation Steps</h2>
