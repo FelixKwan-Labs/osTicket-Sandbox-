@@ -5,19 +5,13 @@
 
 <h1>What I Learned From Exploring osTicket</h1>
 
-<b>Admin Panel vs Agent Panel</b> 
-  1. Sign up and create a free subscription: https://azure.microsoft.com/en-us/free/
-  2. Get logged into the Azure Portal: https://portal.azure.com
-  3. Create an Azure Virtual Machine (Windows 10, 4 vCPUs)
-     - The VM provides an isolated Windows environment to install and configure osTicket, ensuring a controlled setup.
-  4. Log into the VM using Remote Desktop
-     - This step grants access to the VM's graphical interface to perform installations and configurations.
-
-
-<b>- osTicket Installation Files:</b> 
- 1. Download the osTicket-Installation-Files.zip: [osTicket.zip](https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD) and unzip the file onto your VM's desktop into a folder.
-    - The installation files contain all the necessary tools, dependencies, and software required to set up osTicket.
-
+<h3><b>Admin Panel vs Agent Panel</b></h3>
+<p><b> Admin Panel </b></p>
+<p>In the Admin Panel there are more backend configuration as shown in the photo below.The Agent Panel is tailored for support agents who handle tickets and interact with users.</p>
+<img src="https://github.com/user-attachments/assets/95d1d392-295d-4c73-9211-30b088d8ff76" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p><b> Agent Panel </b></p>
+<p>The Agent Panel is more focused on day-to-day ticket handling and communication. It’s for agents who resolve tickets and assist users.</p>
+<img src="https://github.com/user-attachments/assets/65fada69-f429-421b-94c3-a0b200705b5d" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <h2>Installation Steps</h2>
 
