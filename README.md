@@ -37,4 +37,9 @@ As an end-user, I created a ticket with a random concern so I can view it as an 
 <p>
 I can view the ticket I submitted directly in the Agent Panel, where I have various options for managing it. These include assigning it to a different team, updating its status, and communicating with the user.
 </p>
-<p>One thing I learned from this is that as a Help Desk Agent, I need to know when to escalate or assign tickets to other teams or specialists.</p>
+<p>Things I learned from this is that as a Help Desk Agent:</p>
+
+-  I need to know when to escalate or assign tickets to other teams or specialists.
+-  There is an email capability so every time you update the ticket, the user gets a copy and they can respond
+-  Tickets can come from phone calls, chat apps, emails, web forms, or even casual encounters, like someone stopping you in the hallway or at your desk, but you should always create a ticket for everything you handle—tracking metrics is important!
+
