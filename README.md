@@ -5,7 +5,7 @@
 
 <h1>What I Learned From Exploring osTicket</h1>
 
-<b>- Microsoft Azure (Virtual Machines/Compute):</b> 
+<b>Admin Panel vs Agent Panel</b> 
   1. Sign up and create a free subscription: https://azure.microsoft.com/en-us/free/
   2. Get logged into the Azure Portal: https://portal.azure.com
   3. Create an Azure Virtual Machine (Windows 10, 4 vCPUs)
