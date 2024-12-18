@@ -37,3 +37,4 @@ As an end-user, I created a ticket with a random concern so I can view it as an 
 <p>
 I can view the ticket I submitted directly in the Agent Panel, where I have various options for managing it. These include assigning it to a different team, updating its status, and communicating with the user.
 </p>
+<p>One thing I learned from this is that as a Help Desk Agent, I need to know when to escalate or assign tickets to other teams or specialists.</p>
